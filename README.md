@@ -1,6 +1,6 @@
 ## 👋 Hey Guys I'm YoYling.
 
-- 🔭 My Blog : [yoyling.com](https://yoyling)
+- 🔭 My Blog : [yoyling.com](https://yoyling.com)
 
 - 🌱 计算机软件工程专业大二学生，渴望并相信着美好的事情将会发生。
 
